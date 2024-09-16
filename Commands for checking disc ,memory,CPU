@@ -1,0 +1,4 @@
+free-g    -----> you can understand what is the memory of your laptop or server
+nproc     -----> you can understand number of the CPU
+df -h     -----> for understanding disc size
+top       -----> For monitoring evrything froma single place like memory,cpu and disc
